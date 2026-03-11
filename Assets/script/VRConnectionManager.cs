@@ -12,7 +12,7 @@ public class VRConnectionManager : MonoBehaviour
 {
     [Header("Configuration VR & Réseau")]
     public string profileName = "JoueurVR";
-    public string sessionName = "test";
+    public string sessionName = "sessionPCVR";
     public string serverIPAddress = "192.168.72.86";
 
     private int _maxPlayers = 10;
